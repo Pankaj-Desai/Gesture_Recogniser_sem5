@@ -38,7 +38,7 @@ validation_generator = test_datagen.flow_from_directory(
 model = tf.keras.models.Sequential([
     tf.keras.layers.Conv2D(64, (3, 3), activation='relu', input_shape=(200, 200, 3)),
     tf.keras.layers.MaxPooling2D(2, 2),
-    # tf.keras.layers.Conv2D(64, (3, 3), activation='relu'),
+    # tf.keras.layers.Conv2D(64, (3, 3), activation='relu'),   ....Solving Overfitting....
     # tf.keras.layers.MaxPooling2D(2, 2),
     # tf.keras.layers.Conv2D(64, (2, 2), activation='relu'),
     # tf.keras.layers.MaxPooling2D(2, 2),
