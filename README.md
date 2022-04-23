@@ -4,7 +4,7 @@ ML Project
 
 This project was created by us(Pankaj Desai, Nitesh Gehlot, Pratik Bhangale, Sahil Kawade) to learn the concepts of Machine Learning. 
 This was our third year mini project created using Machine Learning concepts. 
-We used python for ML model and Android Studio for creating application, programming language used to create application was kotlin. 
+We used python for ML model and Android Studio for creating application, programming language used to create application was kotlin.(https://github.com/Pankaj-Desai/HandGesture) 
 Hope who ever using this application may like it. 
 If you have any suggestions for us to enhance this application may contact anyone of the below:
 
